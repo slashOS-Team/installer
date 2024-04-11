@@ -1,2 +1,2 @@
 # slashOS Installer
-Installer for slashOS
+Installer for slashOS 🤯
